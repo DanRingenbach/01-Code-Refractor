@@ -1,6 +1,6 @@
-# Assignment 01 HTML,CSS, and Git: Code Refractor
+# Assignment 01 HTML, CSS, and Git: Code Refractor
 ## Description
-The task of this project was to take existing functioning code and to refactor it to be more efficient and accessable. Semantic elements were used to replace existing generic tags. Certain elements were trimmed down and consolidated to make the code more efficient and readable. 
+The task of this project was to take existing functioning code and to refactor it to be more efficient and accessable.  The original CSS file was overly complex and inefficient. To create a more streamlined and professional code,semantic elements were used to replace existing generic tags. Certain elements were trimmed down and consolidated to make the code more efficient and readable. 
 
 **Links**
 
